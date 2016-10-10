@@ -5,5 +5,5 @@
 #### Youtube Videos 
 
 ```sh
-[Inter Activity Communication](https://www.youtube.com/watch?v=ORn-VT6vOOQ)
+Inter Activity Communication - https://www.youtube.com/watch?v=ORn-VT6vOOQ
 ```
